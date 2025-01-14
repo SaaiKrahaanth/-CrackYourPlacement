@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SaaiKrahaanth/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/SaaiKrahaanth/-CrackYourPlacement/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
